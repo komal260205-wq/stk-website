@@ -3,15 +3,15 @@ title: Community
 ---
 <ul id="get-involved-list">
     <li>
-        <a class="community-link" href="https://forum.freegamedev.net/viewforum.php?f=16">
+        <a class="community-link" href="https://groups.f-hub.org/supertuxkart">
             <div class="get-involved-icon"><i class="fas fa-cog" style="font-size: 90px; margin-top: 5px; margin-bottom: -5px;"></i></div>
             <div class="get-involved-name">{%translate Forum%}</div>
         </a>
     </li>
     <li>
-        <a class="community-link" href="https://github.com/supertuxkart/stk-code">
-            <div class="get-involved-icon"><i class="fab fa-github" style="font-size: 90px; margin-top: 5px; margin-bottom: -5px;"></i></div>
-            <div class="get-involved-name">{%translate GitHub%}</div>
+        <a class="community-link" href="https://gitlab.com/supertuxkart/stk-code">
+            <div class="get-involved-icon"><i class="fab fa-gitlab" style="font-size: 90px; margin-top: 5px; margin-bottom: -5px;"></i></div>
+            <div class="get-involved-name">{%translate GitLab%}</div>
         </a>
     </li>
     <li>
@@ -52,10 +52,9 @@ title: Community
 ## <i style="margin: 0px 5px;" class="fa fa-code"></i> {%translate For Programmers,In Community page%}
 ### {%translate Programming,In Community page%}
 * [{%translate Source control%}](Source_control "{%translate Source control%}")
-* [{%translate Building from source%}](https://github.com/supertuxkart/stk-code/blob/master/INSTALL.md "{%translate Building from source%}")
+* [{%translate Building from source%}](https://gitlab.com/supertuxkart/stk-code/blob/master/INSTALL.md "{%translate Building from source%}")
 * [{%translate Coding style guidelines%}](Coding_Style "{%translate Coding style guidelines%}")
 * [{%translate Doxygen documentation%}](https://doxygen.supertuxkart.net "{%translate Doxygen documentation%}")
-* [{%translate Tasks for beginners%}](https://github.com/supertuxkart/stk-code/issues?q=is%3Aopen+is%3Aissue+label%3A%22T%3Afor+beginners%22 "{%translate Tasks for beginners%}")
 * [{%translate Scripting%}](Scripting "{%translate Scripting%}")
 
 ### {%translate Misc,In Community page%}

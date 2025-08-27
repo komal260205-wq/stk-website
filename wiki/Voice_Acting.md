@@ -4,7 +4,7 @@ display_title: true
 ---
 Occasionally, the SuperTuxKart developers or independent artists need help with voice acting for the game. Usually this is for things like Nolok's voice in the introductory cutscenes, but Gran Paradiso Island also features an airport announcer, which, if you listen closely, is a small satirical easter egg.
 
-Naturally, we won't need voice acting all the time, but feel free to check the [forum](https://forum.freegamedev.net/viewforum.php?f=16) for any voice acting requests. If you fit the requirements below, voice acting is an easy and fun way to help the project.
+Naturally, we won't need voice acting all the time, but feel free to check the [forum](https://groups.f-hub.org/supertuxkart) for any voice acting requests. If you fit the requirements below, voice acting is an easy and fun way to help the project.
 
 ## Requirements
 

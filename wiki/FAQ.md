@@ -102,7 +102,7 @@ In August 2020, version 1.2, was released. It improved gamepad support via SDL2 
 
 In September 2021, the most recent version, 1.3, has been released. It contains updates for many official karts.
 
-For more details, please see the [changelog](https://github.com/supertuxkart/stk-code/blob/master/CHANGELOG.md), the [blog posts](https://blog.supertuxkart.net) or the list of resolved issues on STK's GitHub.
+For more details, please see the [changelog](https://gitlab.com/supertuxkart/stk-code/blob/master/CHANGELOG.md), the [blog posts](https://blog.supertuxkart.net) or the list of resolved issues on STK's GitLab.
 
 {% end_liquid %}
 
@@ -124,7 +124,7 @@ I want to help! What can I do?
 
 First, have a look at the [Get involved](Community) page. It should contain all the information you need to start with coding, modeling, designing or whatever you'd like to do.
 
-Before you start, you should contact the current developers and artists through the [IRC](https://web.libera.chat/?channels=#supertuxkart), [Telegram channel](https://t.me/STKInternational) or the [forum](https://forum.freegamedev.net/viewforum.php?f=16) and tell us what you want to achieve. This will greatly improve the chance that you contribution will be accepted.
+Before you start, you should contact the current developers and artists through the [IRC](https://web.libera.chat/?channels=#supertuxkart), [Telegram channel](https://t.me/STKInternational) or the [forum](https://groups.f-hub.org/supertuxkart) and tell us what you want to achieve. This will greatly improve the chance that you contribution will be accepted.
 
 {% end_liquid %}
 
@@ -206,7 +206,7 @@ Technical Questions
 
 I found a bug, how should I contact you?
 
-First, look at the [STK bug tracker](https://github.com/supertuxkart/stk-code/issues) and open a new issue if your problem hasn't been reported yet.
+First, look at the [STK bug tracker](https://gitlab.com/supertuxkart/stk-code/-/issues) and open a new issue if your problem hasn't been reported yet.
 
 {% end_liquid %}
 

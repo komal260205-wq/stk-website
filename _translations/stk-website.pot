@@ -104,7 +104,7 @@ msgstr ""
 msgid "Modding"
 msgstr ""
 
-msgid "GitHub"
+msgid "GitLab"
 msgstr ""
 
 # Clicking Documentation will go to SuperTuxKart doxygen
@@ -177,9 +177,6 @@ msgid "Coding style guidelines"
 msgstr ""
 
 msgid "Doxygen documentation"
-msgstr ""
-
-msgid "Tasks for beginners"
 msgstr ""
 
 msgid "Scripting"

@@ -20,7 +20,7 @@ The team has to keep the quality of code and artwork up. This does mean that som
 
 ### When reporting a bug or crash in the game
 
-* If the bug is already reported on [GitHub](https://github.com/supertuxkart/stk-code/issues?q=is%3Aissue):
+* If the bug is already reported on [GitLab](https://gitlab.com/supertuxkart/stk-code/-/issues):
   * If the bug is open, see if you can report any more information to the team.
   * If the bug is closed, you probably will have to wait for the next release for the fix to be included in the game, unless you want to build from source.
 * If the bug is not reported:

@@ -42,7 +42,7 @@ We intend in the future to also collect information about how often each track a
 
 ### Third Party Services
 
-For online gaming only we use a set of stun server, which will kept up-to-date by us. If you connect to a game server, your computer might contact a random stun server from that list. The current list of servers can be found in the file [user_config.hpp](https://github.com/supertuxkart/stk-code/blob/master/src/config/user_config.hpp) - search for "stun-servers". Each stun server has its own T&C and privacy policy. The stun protocol itself as used by us will only exchange IP addresses, no other private information will be exchanged. If you want to avoid the use of third party stun servers, do not connect to any wide-area network games.
+For online gaming only we use a set of stun server, which will kept up-to-date by us. If you connect to a game server, your computer might contact a random stun server from that list. The current list of servers can be found in the file [user_config.hpp](https://gitlab.com/supertuxkart/stk-code/blob/master/src/config/user_config.hpp) - search for "stun-servers". Each stun server has its own T&C and privacy policy. The stun protocol itself as used by us will only exchange IP addresses, no other private information will be exchanged. If you want to avoid the use of third party stun servers, do not connect to any wide-area network games.
 
 ### COPPA Compliance (United States)
 

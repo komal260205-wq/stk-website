@@ -6,10 +6,10 @@ SupertTuxKart uses Git for source code, and SVN for data files. So if you don't 
 
 ## Game core
 
-The core code repository is hosted on our [GitHub page](https://github.com/supertuxkart/stk-code). Example clone command:
+The core code repository is hosted on our [GitLab page](https://gitlab.com/supertuxkart/stk-code). Example clone command:
 
 {%popup_code
-git clone https://github.com/supertuxkart/stk-code.git stk-code%}
+git clone https://gitlab.com/supertuxkart/stk-code.git stk-code%}
 
 It is about 350 MB in download size.
 
