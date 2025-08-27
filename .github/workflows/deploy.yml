@@ -13,7 +13,7 @@ jobs:
       - name: Set GitHub variables
         run: |
           export REPO_OWNER=$(echo $GITHUB_REPOSITORY | cut -d '/' -f1 | tr '[:upper:]' '[:lower:]')
-          if [ $REPO_OWNER = "supertuxkart" ]; then
+          if [ $REPO_OWNER = "benau" ]; then
             export STK_URL="https://supertuxkart.net"
             echo -n "supertuxkart.net" > CNAME
           else
